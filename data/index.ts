@@ -96,19 +96,10 @@ export const projects = [
     id: 3,
     title: "Multi-Language Invoice Analyzer",
     des: "Gemini Pro: Efficient multi-language invoice analyzer for international financial documents.",
-    img: "/p3.svg",
+    img: "/invoicegen.png",
     iconLists: ["/python.svg", "google.svg"],
     link: "https://github.com/Nathan-sudo-pycharm/Multilang_Invoice_Analyzer",
     time: "Build Time:3 Weeks",
-  },
-  {
-    id: 4,
-    title: "Street Fighter Clone Made in Python",
-    des: "This project is a Clone of the Street Fighter Game. It has been developed in Python programming language, using the Pygame library.",
-    img: "/multiplayer.png",
-    iconLists: ["/python.svg"],
-    link: "/multiplayer.png",
-    time: "Build Time:1 Week",
   },
 ];
 
@@ -141,28 +132,24 @@ export const Skills = [
     title: "Soft Skills",
     desc: "Leadership, Communication , Public Speaking , Analytical Skills",
     className: "md:col-span-2",
-    thumbnail: "/exp3.svg",
   },
   {
     id: 2,
     title: "Technical Skills ",
     desc: "HTML5 , CSS3 , C , C++ , PYTHON , MySQL , PHP , Reacy JS , Next JS",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Tools and Software",
     desc: "Git , Github , Sentry ",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
   },
   {
     id: 4,
     title: "Languages Spoken",
     desc: "English , Hindi, Kannada , German [ Basic ] ",
     className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
   },
 ];
 
